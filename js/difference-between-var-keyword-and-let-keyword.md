@@ -1,4 +1,4 @@
-## JS difference between 'var' keyword and 'let' keyword
+## ES6 JS difference between 'var' keyword and 'let' keyword
 
 ### Global
 	let me = 'go'; // globally scoped
